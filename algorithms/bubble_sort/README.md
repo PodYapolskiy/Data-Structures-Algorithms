@@ -1,19 +1,17 @@
-    
-
 # Bubble Sort
 
-#### Idea
+### Idea
 
 Iterate through a massive comparing 2 neighbour elements each time. If previous element is greater than following, swap them and continue.
 
 This process allow to "bubble up" and to
-*__correctly__* place the greatest element on each iteration.
+_**correctly**_ place the greatest element on each iteration.
 
-#### Data Structures
+### Data Structures
 
 - Array
 
-#### Complexity
+### Complexity
 
 <table>
     <thead>
@@ -37,4 +35,4 @@ This process allow to "bubble up" and to
     </tbody>
 </table>
 
-#### Example
+### Example

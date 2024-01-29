@@ -1,10 +1,10 @@
 # Data Structures & Algorithms
 
-#### Description
+### Description
 
 This repository is dedicated to self-learning of DSA topic in Computer Science. The idea is to implement all classic structures and algorithms by hands to grow comprehension and perception.
 
-#### Data Structures
+### Data Structures
 
 - ❌ Stack
 - ❌ Queue
@@ -14,7 +14,7 @@ This repository is dedicated to self-learning of DSA topic in Computer Science. 
 - ❌ Binary Tree
 - ❌ BTree
 
-#### Algorithms
+### Algorithms
 
 - Sortings
 
@@ -32,6 +32,6 @@ This repository is dedicated to self-learning of DSA topic in Computer Science. 
 - Searches
   - ...
 
-#### Links
+### Links
 
 [Алгоритмы и структуры данных](https://t.me/the_algorithms)
