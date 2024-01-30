@@ -19,7 +19,7 @@ This repository is dedicated to self-learning of DSA topic in Computer Science. 
 - Sortings
 
   - ✅ Bubble
-  - ❌ Selection
+  - ✅ Selection
   - ❌ Insertion
   - ❌ Merge
   - ❌ Quick
@@ -30,6 +30,7 @@ This repository is dedicated to self-learning of DSA topic in Computer Science. 
   - ...
 
 - Searches
+
   - ...
 
 ### Links
