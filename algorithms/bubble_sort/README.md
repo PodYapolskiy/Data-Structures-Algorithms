@@ -7,13 +7,9 @@ Iterate through a massive comparing 2 neighbour elements each time. If previous 
 This process allow to "bubble up" and to
 _**correctly**_ place the greatest element on each iteration.
 
-<br/>
-
 ### Data Structures
 
 - Array
-
-<br/>
 
 ### Complexity
 
@@ -43,8 +39,6 @@ _**correctly**_ place the greatest element on each iteration.
 | ---------- | ---------- | -------- |
 | Average    | Worst      |          |
 | $ O(n^2) $ | $ O(n^2) $ | $ O(1) $ | -->
-
-<br/>
 
 ### Example
 
