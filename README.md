@@ -6,6 +6,8 @@ This repository is dedicated to self-learning of DSA topic in Computer Science. 
 
 ### Data Structures
 
+- ❌ Array List
+- ❌ Linked List
 - ❌ Stack
 - ❌ Queue
 - ❌ Set
@@ -20,18 +22,17 @@ This repository is dedicated to self-learning of DSA topic in Computer Science. 
 
   - ✅ Bubble
   - ✅ Selection
-  - ❌ Insertion
+  - ✅ Insertion
   - ❌ Merge
   - ❌ Quick
   - ❌ Heap
   - ❌ Count
   - ❌ Radix
   - ❌ Bucket
-  - ...
 
 - Searches
 
-  - ...
+  - ❌ Binary
 
 ### Links
 
