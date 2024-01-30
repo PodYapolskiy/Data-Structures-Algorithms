@@ -7,9 +7,13 @@ Iterate through a massive comparing 2 neighbour elements each time. If previous 
 This process allow to "bubble up" and to
 _**correctly**_ place the greatest element on each iteration.
 
+<br/>
+
 ### Data Structures
 
 - Array
+
+<br/>
 
 ### Complexity
 
@@ -24,15 +28,24 @@ _**correctly**_ place the greatest element on each iteration.
         <tr>
             <td>Average</td>
             <td>Worst</td>
-            <td rowspan=2>
-                O(1)
+            <td rowspan=2 valign="bottom" align="center">
+                <b>O(1)</b>
             </td>
         </tr>
         <tr>
-            <td>O(n^2)</td>
-            <td>O(n^2)</td>
+            <td align="center"><b>O(n²)</b></td>
+            <td align="center"><b>O(n²)</b></td>
         </tr>
     </tbody>
 </table>
+<!-- 
+| Time       | Time       | Space    |
+| ---------- | ---------- | -------- |
+| Average    | Worst      |          |
+| $ O(n^2) $ | $ O(n^2) $ | $ O(1) $ | -->
+
+<br/>
 
 ### Example
+
+![example](./bubble_sort.jpg)
