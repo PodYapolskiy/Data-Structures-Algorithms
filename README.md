@@ -6,7 +6,7 @@ This repository is dedicated to self-learning of DSA topic in Computer Science. 
 
 ### Data Structures
 
-- ❌ Array List
+- ✅ Array List
 - ❌ Linked List
 - ❌ Stack
 - ❌ Queue
